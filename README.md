@@ -1,7 +1,7 @@
 ## Find Me
 
-- [ibrahimalanshor.github.io](https://ibrahimalanshor.github.io)
+- My Personal Web - [ibrahimalanshor.github.io](https://ibrahimalanshor.github.io)
 
 ## Projects
 
-- [sysym.dev - Coding Tips And Article](https://sysym.dev)
+- Coding Tips And Article - [sysym.dev](https://sysym.dev)
