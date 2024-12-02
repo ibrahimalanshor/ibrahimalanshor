@@ -2,7 +2,21 @@
 
 - My Personal Web - [https://ibrahimalanshor.github.io](https://ibrahimalanshor.github.io)
 
-## Projects
+### Work Experience  
+
+1. **Web Developer**  
+   *Karya Inovasi Anak Bangsa*  
+   **January 2021 – July 2022**  
+
+2. **Frontend Web Developer**  
+   *Prioritas Web Teknologi*  
+   **July 2022 – July 2023**  
+
+3. **Fullstack Web Developer**  
+   *Prioritas Web Teknologi*  
+   **July 2023 – Present**
+
+## Personal Projects
 
 - Coding Tips And Article - [https://sysym.dev](https://sysym.dev)
 - Al-Quran Web - [https://qurandigital.online](https://qurandigital.online)
