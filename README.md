@@ -23,4 +23,4 @@
 - **Al-Quran Web**: [https://qurandigital.online](https://qurandigital.online)  
 - **Curl Command Builder**: [https://ibrahimalanshor.github.io/curl-command-builder/](https://ibrahimalanshor.github.io/curl-command-builder)  
 - **Countdown**: [https://sysym-dev.github.io/countdown](https://sysym-dev.github.io/countdown)  
-- **Todo**: [https://sysym-dev.github.io/todo](https://sysym-dev.github.io/todo)  
+- **Todo**: [https://sysym.dev/todo](https://sysym-dev.github.io/todo)  
