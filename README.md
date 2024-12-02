@@ -5,7 +5,7 @@
 
 ## Work Experience  
 
-1. **Web Developer**  
+1. **Frontend Web Developer**  
    *Karya Inovasi Anak Bangsa*  
    *January 2021 – July 2022*  
 
