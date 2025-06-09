@@ -7,7 +7,7 @@
 
 1. **Frontend Web Developer**  
    *Karya Inovasi Anak Bangsa*  
-   *January 2021 – July 2022*  
+   *January 2022 – July 2022*  
 
 2. **Frontend Web Developer**  
    *Prioritas Web Teknologi*  
