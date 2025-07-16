@@ -19,8 +19,6 @@
 
 ## Personal Projects  
 
-- **Coding Tips and Articles**: [https://sysym.dev](https://sysym.dev)  
-- **Al-Quran Web**: [https://qurandigital.online](https://qurandigital.online)  
-- **Curl Command Builder**: [https://ibrahimalanshor.github.io/curl-command-builder/](https://ibrahimalanshor.github.io/curl-command-builder)  
-- **Countdown**: [https://sysym-dev.github.io/countdown](https://sysym-dev.github.io/countdown)  
-- **Todo**: [https://sysym.dev/todo](https://sysym.dev/todo)  
+- **Al-Quran Web**: [https://qurandigital.online](https://qurandigital.online)
+- **Teknogain**: [https://teknogain.com](https://teknogain.com)  
+- **Gurun Kit**: [https://gurunkit.teknogain.com](https://gurunkit.teknogain.com)
