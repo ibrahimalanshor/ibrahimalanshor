@@ -19,6 +19,4 @@
 
 ## Personal Projects  
 
-- **Al-Quran Web**: [https://qurandigital.online](https://qurandigital.online)
-- **Teknogain**: [https://teknogain.com](https://teknogain.com)  
-- **Gurun Kit**: [https://gurunkit.teknogain.com](https://gurunkit.teknogain.com)
+- **Quran Data**: [https://github.com/ibrahimalanshor/quran-data](https://github.com/ibrahimalanshor/quran-data)
