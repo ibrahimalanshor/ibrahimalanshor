@@ -1,5 +1,3 @@
-
-
 ## Find Me  
 - My Personal Web: [https://ibrahimalanshor.github.io](https://ibrahimalanshor.github.io)  
 
@@ -19,4 +17,5 @@
 
 ## Personal Projects  
 
+- **Quran Website**: [https://ibrahimalanshor.github.io/quran](https://ibrahimalanshor.github.io/quran)
 - **Quran Data**: [https://github.com/ibrahimalanshor/quran-data](https://github.com/ibrahimalanshor/quran-data)
