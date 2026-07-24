@@ -20,5 +20,6 @@
 - **Quran Website**: [https://ibrahimalanshor.github.io/quran](https://ibrahimalanshor.github.io/quran)
 - **V-Todo**: [https://v-todo.narakode.id](https://v-todo.narakode.id)
 - **Fineauth - Laravel Auth Package**: [https://narakode.id/fineauth](https://narakode.id/fineauth)
+- **Vue Auth Helper - Vue Auth Helper**: [https://narakode.id/vue-auth-helper](https://narakode.id/vue-auth-helper)
 - **Kumpulan Dataset**: [https://ibrahimalanshor.github.io/dataset](https://ibrahimalanshor.github.io/dataset)
 - **Quran Data**: [https://github.com/ibrahimalanshor/quran-data](https://github.com/ibrahimalanshor/quran-data)
