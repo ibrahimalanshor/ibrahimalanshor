@@ -18,6 +18,7 @@
 ## Personal Projects  
 
 - **Quran Website**: [https://ibrahimalanshor.github.io/quran](https://ibrahimalanshor.github.io/quran)
+- **Habit Tracker**: [https://habit.narakode.id](https://habit.narakode.id)
 - **V-Todo**: [https://v-todo.narakode.id](https://v-todo.narakode.id)
 - **Fineauth - Laravel Auth Package**: [https://narakode.id/fineauth](https://narakode.id/fineauth)
 - **Vue Auth Helper - Vue Auth Helper**: [https://narakode.id/vue-auth-helper](https://narakode.id/vue-auth-helper)
